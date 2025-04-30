@@ -1,7 +1,7 @@
 ### Hi friends 👋👋
 
-- 🌱 I’m a current Y2 NUS Computer Science student.
-- 🔭 Passionate in areas of **Cloud Computing and Data Analytics**
+- 🌱 I’m a current Y3 NUS Computer Science student.
+- 🔭 Passionate in areas of **AI/ML and Data Analytics**
 - 📫 Ways to reach me:  [LinkedIn](https://www.linkedin.com/in/ziyitay) or ziyitay1@gmail.com
 
 <!--
